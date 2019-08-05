@@ -1,5 +1,6 @@
 BODY { 
 background: #AAAAAA;
+	padding:50px;
 }
 
 .tile1, .tile2, .tile3, .tile4, .tile5, .tile6, .tile7, .tile8, .tile9 {
