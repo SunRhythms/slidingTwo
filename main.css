@@ -1,12 +1,20 @@
 BODY { 
 background: #AAAAAA;
-	padding:50px;
+}
+
+.gametxt{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-style: italic;
+	font-weight: 400;
+	padding: 10px 0px;
+	font-size: 24px;
 }
 
 .tile1, .tile2, .tile3, .tile4, .tile5, .tile6, .tile7, .tile8, .tile9 {
   display: table-cell;
   width: 120px;
   height: 120px;
+	position: relative;
   /*border: 15px outset;
 background: white;*/
 	background-image: url("tiles_.jpg");
